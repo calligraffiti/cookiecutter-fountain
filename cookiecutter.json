@@ -1,0 +1,14 @@
+{
+    "project_title": "Screenplay Title",
+    "remote_url": "None",
+    "project_slug": "{%- if cookiecutter.remote_url == 'None' -%}{{ cookiecutter.project_title|replace('+', 'p')|slugify }}{% else %}{{ cookiecutter.remote_url.split('/')[-1]|replace('.git', '')}}{%- endif -%}",
+    "full_name": "Author's Name",
+    "prod_company": "None",
+    "email": "Author's email",
+    "prod_addr1": "Street address: example: 321 John St., Ste. 7",
+    "prod_addr2": "City, State & Zip: example: Nyak, NY 10960",
+    "year": "{% now 'utc', '%Y' %}",
+    "date": "{% now 'utc', '%D' %}",
+    "_extensions": ["jinja2_time.TimeExtension"],
+    "license": ["None", "Proprietary", "CC_BY-NC-ND_4.0", "CC_BY-SA_4.0"]
+}

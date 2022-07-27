@@ -1,0 +1,17 @@
+Title: _**{{ cookiecutter.project_title }}**_
+Credit: written by
+Author: {{ cookiecutter.full_name }}
+// Source:
+Draft date: {{ cookiecutter.date }}
+// Notes:
+Contact:
+    {{ cookiecutter.full_name }}
+    {{ cookiecutter.prod_addr1 }}
+    {{ cookiecutter.prod_addr2 }}
+    {{ cookiecutter.email }}
+Copyright: (c){{ cookiecutter.year }} {% if cookiecutter.prod_company == 'None' -%}{{ cookiecutter.full_name }}{%- else -%}{{ cookiecutter.prod_company }}{%- endif %}
+
+
+EXT. LOCATION - DAY
+
+Replace this text and begin writing your own script. For information on screen writing in the Fountain format, visit https://www.fountain.io/. There is also more information on getting started in the README file.
