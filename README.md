@@ -81,6 +81,7 @@ wrap pdf proj_name.fountain --out proj_name-v2.pdf
 
 ## File Structure
 
+```
 ├── LICENSE.md                          // License info for your project
 ├── README.md                           // README for your repository
 ├── TODO.md                             // Infor on next steps for your repository
@@ -92,7 +93,7 @@ wrap pdf proj_name.fountain --out proj_name-v2.pdf
 │       ├── character_profile_xtra.md   // A character profile template for a lesser character
 │       └── setting_template.md         // A scene setting profile template
 └── proj_name.fountain                  // Your screenplay
-
+```
 
 ## Contribute!
 Please do help improve this cookiecutter! Submit pull requests to this repository, or if you notice any bugs, please report them using [the Github issue tracker](https://github.com/calligraffiti/fountain-cookiecutter)
