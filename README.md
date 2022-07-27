@@ -1,6 +1,6 @@
-# Welcome to Fountain-cookiecutter - a cookiecutter template for starting a Fountain screenplay!
+# Fountain-cookiecutter - A Fountain screenplay cookiecutter template!
 
-This repository is a template repository (a cookiecutter) that allows you to quickly set up a new [Fountain](https://www.fountain.io) screenplay project.
+This repository is a template repository, a cookiecutter, that allows you to quickly set up a new [Fountain](https://www.fountain.io) screenplay project so you can get straight to writing.
 
 
 ## Features
@@ -37,7 +37,7 @@ the Git hosting service of your choice and add a new empty repository e.g. [on G
 
 Cookiecutter automatically initializes, adds and commits, your local files to Git with the commit message 'initial commit'. You're ready to begin editing your `project_name.fountain` file and start using git right away!
 
-If you're new to Git concider searching [getting started with git](https://duckduckgo.com/?q=git+getting+started&ia=web), or visit W3 Schools '[Git Getting Started](https://www.w3schools.com/git/git_getstarted.asp).'
+If you're new to Git consider searching [getting started with git](https://duckduckgo.com/?q=git+getting+started&ia=web), or visit W3 Schools '[Git Getting Started](https://www.w3schools.com/git/git_getstarted.asp).'
 
 ***Note:*** .PDF files are not tracked by Git in this repo. Tracking PDF files just adds unnecessary bloat to your project repository, and really it's just a render. It's the `.fountain` file that matters most.
 
@@ -56,7 +56,7 @@ This cookiecutter accepts the following configuration options:
   *  `prod_addr2`: Contact address 2, author, or production companies city and state. `Example: City, State & Zip: example: Nyak, NY 10960`
   *  `year`: Year written, defaults to current year.
   *  `date`: Formatted date, defaults to current date.
-  * `license`: Adds a license file to the repository. It can be chosen from `Proprietary`, US Copyright ***(default)***, a  `CC_BY-NC-ND_4.0` - ***[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)***, or a `CC_BY-SA_4.0` - ***[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)***. It can also be left to `None` which will produce a simple copyright statement.
+  * `license`: Adds a license file to the repository. It can be chosen from `Proprietary`, US Copyright ***(default)***, a  ***`CC_BY-NC-ND_4.0`*** - ***[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)***, or a ***`CC_BY-SA_4.0`*** - ***[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)***. It can also be left to ***`None`*** which will produce a simple copyright statement.
 
 If you are using `fountain-cookiecutter` a lot, you can customize your default values by providing a `.cookiecutterrc` file in your home directory, for more details see the [cookiecutter documentation](https://cookiecutter.readthedocs.io/en/latest/advanced/user_config.html).
 
