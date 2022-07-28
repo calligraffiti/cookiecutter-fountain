@@ -5,19 +5,20 @@ This is a cookiecutter template, that helps you to quickly set up a new [Fountai
 
 ## Features
 
-  * Very simple, configurable setup of a fully functional project
-  * Automatically performs a Git repository setup
+  * Very simple, configurable setup of a fully functional project.
+  * Automatically performs a Git repository setup.
   * Based on an established tool: [Cookiecutter](https://github.com/cookiecutter/cookiecutter) has >17k stars on Github!
+  * Using `wrap` has the option to export your work as a *stageplay* formatted script.
 
 
 ## Prerequisites
 
 In order to use Fountain-cookiecutter template for your next Fountain screenplay, you need the following software installed:
 
-  * Python `>= 3.6`
+  * [Python `>= 3.6`](https://realpython.com/installing-python/)
   * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) e.g. by running `pip install cookiecutter`.
-  * Git `>= 1.8.2`
-  * Wrap `>= 0.3.1`
+  * [Git `>= 1.8.2`](https://github.com/git-guides/install-git)
+  * [Wrap `>= 0.3.1`](https://github.com/Wraparound/wrap/wiki)
 
 
 ## Using Fountain-cookiecutter - a cookiecutter template for Fountain screenplays
@@ -78,6 +79,9 @@ The above command will out-put your PDF file into the same directory. If you wis
 ```
 wrap pdf proj_name.fountain --out proj_name-v2.pdf
 ```
+
+To export your your work as a ***stageplay*** formatted script, simply uncomment `Type: stageplay`. The default for `wrap` is screenplay. `Source:` and `Notes:` are also commented out. Just remove the double forward slashes `// ` to use them on your title page.
+
 
 ## File Structure
 
