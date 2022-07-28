@@ -1,4 +1,5 @@
 Title: _**{{ cookiecutter.project_title }}**_
+// Type: stageplay
 Credit: written by
 Author: {{ cookiecutter.full_name }}
 // Source:
