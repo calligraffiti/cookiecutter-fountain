@@ -67,6 +67,12 @@ If you are using `fountain-cookiecutter` a lot, you can customize your default v
 We recommend installing [Curier Prime](https://quoteunquoteapps.com/courierprime/), an open SIL licensed typeface, designed by Alan Dague-Greene, specifically for screenplays. This is the default font `Wrap` looks for when rendering your script.
 
 
+## Included Templates
+There are a few simple templates we use when writing that are included within the `untracked` folder. Just copy them into your project directory if you wish to use them. A simple `taskell.md` outline template file and sample are included there as well. 
+
+[Taskell](https://taskell.app/) is a simple to use command line Kanban app.
+
+
 ## Rendering Your Script
 
 We recommend using [Wraparound](https://wraparound.github.io/) to render your Fountain files to PDF or HTML. It really is the best we have tested for creating professionally formatted screenplays. It does not currently render out to FinalDraft, .FDX file format. FinalDraft does now support the import of `.fountain` files, but if you do need to export a Fountain screenplay to .FDX because the format is required by production, we recommend using a tool like [`scripttool`](https://rsdoiel.github.io/scripttool/) or [AfterWriting](https://afterwriting.com/).
@@ -95,7 +101,9 @@ To export your your work as a ***stageplay*** formatted script, simply uncomment
 │   └── templates
 │       ├── character_profile_main.md   // A character profile template for a main character
 │       ├── character_profile_xtra.md   // A character profile template for a lesser character
-│       └── setting_template.md         // A scene setting profile template
+│       ├── setting_template.md         // A scene setting profile template
+│       ├── taskell.md                  // Taskell kanban screenplay outline template
+│       └── taskell_sample.md           // Sample Taskell kanban outline
 └── proj_name.fountain                  // Your screenplay
 ```
 
