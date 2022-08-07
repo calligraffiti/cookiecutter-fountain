@@ -1,4 +1,4 @@
-# [![cookiecutter-fountain](https://raw.githubusercontent.com/calligraffiti/cookiecutter-fountain/main/.media/logo.svg?sanitize=true)](https://github.com/calligraffiti/cookiecutter-fountain)
+# [![cookiecutter-fountain](https://raw.githubusercontent.com/calligraffiti/fountain-cookiecutter/main/.media/logo.svg?sanitize=true)](https://github.com/calligraffiti/cookiecutter-fountain)
 
 # Fountain-Cookiecutter
 
