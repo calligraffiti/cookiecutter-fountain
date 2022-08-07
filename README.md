@@ -61,7 +61,7 @@ This cookiecutter accepts the following configuration options:
   *  `prod_addr2`: Contact address 2, author, or production companies city and state. `Example: City, State & Zip: example: Nyak, NY 10960`
   *  `year`: Year written, defaults to current year.
   *  `date`: Formatted date, defaults to current date.
-  * `license`: Adds a license file to the repository. It can be chosen from ***`Proprietary`,*** US Copyright, a  ***`CC_BY-NC-ND_4.0`*** - ***[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)***, or a ***`CC_BY-SA_4.0`*** - ***[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)***. It can also be left to ***`None`***, ***(default)*** which will produce a simple copyright statement.
+  * `license`: Adds a license file to the repository. It can be chosen from ***`Proprietary`,*** ***A full copyright***, a  ***`CC_BY-NC-ND_4.0`*** - ***[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)***, or a ***`CC_BY-SA_4.0`*** - ***[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)***. It can also be left to ***None***, the ***(default)***, which will produce a simple copyright statement.
 
 If you are using `fountain-cookiecutter` a lot, you can customize your default values by providing a `.cookiecutterrc` file in your home directory, for more details see the [cookiecutter documentation](https://cookiecutter.readthedocs.io/en/latest/advanced/user_config.html).
 
