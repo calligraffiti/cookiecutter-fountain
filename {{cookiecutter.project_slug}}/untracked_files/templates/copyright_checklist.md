@@ -34,6 +34,8 @@ To sell your screenplay, it is essential to establish a *Chain of Title*, or the
 	- [Single Application](https://stream-media.loc.gov/copyright/single.mp4)† -- One work by one author.
 	- [Standard Application](https://stream-media.loc.gov/copyright/standard.mp4)‡ -- This application can be used for single author too, but is especially for works created, or owned, by two or more people.
 
+(ℹ) [Copyright.gov's FAQ Page](https://www.copyright.gov/help/faq/index.html)
+
 (ℹ) For published films [Copyright Slap!](https://copyrightslap.com/) is a very good resource to protect yourself from pirating.
 
 
