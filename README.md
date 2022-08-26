@@ -105,6 +105,7 @@ To export your your work as a ***stageplay*** formatted script, simply uncomment
 │   └── templates
 │       ├── character_profile_main.md   // A character profile template for a main character
 │       ├── character_profile_xtra.md   // A character profile template for a lesser character
+│       ├── copyright_checklist.md      // A refererence for manuscript submission to copyright office
 │       ├── setting_template.md         // A scene setting profile template
 │       ├── taskell.md                  // Taskell kanban screenplay outline template
 │       └── taskell_sample.md           // Sample Taskell kanban outline
