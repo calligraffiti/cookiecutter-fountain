@@ -1,6 +1,6 @@
-# [![cookiecutter-fountain](https://raw.githubusercontent.com/calligraffiti/fountain-cookiecutter/main/.media/logo.svg?sanitize=true)](https://github.com/calligraffiti/cookiecutter-fountain)
+# [![cookiecutter-fountain](https://raw.githubusercontent.com/calligraffiti/cookiecutter-fountain/main/.media/logo.svg?sanitize=true)](https://github.com/calligraffiti/cookiecutter-fountain)
 
-# Fountain-Cookiecutter
+# Cookiecutter-Fountain
 
 ***A Fountain screenplay cookiecutter template!***
 
@@ -17,7 +17,7 @@
 
 ## Prerequisites
 
-In order to use Fountain-cookiecutter template for your next Fountain screenplay, you need the following software installed:
+In order to use cookiecutter-fountain template for your next Fountain screenplay, you need the following software installed:
 
   * [Python `>= 3.6`](https://realpython.com/installing-python/)
   * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) e.g. by running `pip install cookiecutter`.
@@ -25,12 +25,12 @@ In order to use Fountain-cookiecutter template for your next Fountain screenplay
   * [Wrap `>= 0.3.1`](https://github.com/Wraparound/wrap/wiki)
 
 
-## Using Fountain-cookiecutter - a cookiecutter template for Fountain screenplays
+## Using Cookiecutter-Fountain - a cookiecutter template for Fountain screenplays
 
 Simply run the cookiecutter command line interface:
 
 ```
-cookiecutter gh:calligraffiti/fountain-cookiecutter
+cookiecutter gh:calligraffiti/cookiecutter-fountain
 ```
 
 This will start an interactive prompt that will configure and generate your screenplay project.
@@ -63,7 +63,7 @@ This cookiecutter accepts the following configuration options:
   *  `date`: Formatted date, defaults to current date.
   * `license`: Adds a license file to the repository. It can be chosen from ***`Proprietary`,*** ***A full copyright***, a  ***`CC_BY-NC-ND_4.0`*** - ***[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)***, or a ***`CC_BY-SA_4.0`*** - ***[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)***. It can also be left to ***None***, the ***(default)***, which will produce a simple copyright statement.
 
-If you are using `fountain-cookiecutter` a lot, you can customize your default values by providing a `.cookiecutterrc` file in your home directory, for more details see the [cookiecutter documentation](https://cookiecutter.readthedocs.io/en/latest/advanced/user_config.html).
+If you are using `cookiecutter-fountain` a lot, you can customize your default values by providing a `.cookiecutterrc` file in your home directory, for more details see the [cookiecutter documentation](https://cookiecutter.readthedocs.io/en/latest/advanced/user_config.html).
 
 
 ## Script Writers Font
@@ -112,7 +112,7 @@ To export your your work as a ***stageplay*** formatted script, simply uncomment
 ```
 
 ## Contribute!
-Please do help improve this cookiecutter! Submit pull requests to this repository, or if you notice any bugs, please report them using [the Github issue tracker](https://github.com/calligraffiti/fountain-cookiecutter)
+Please do help improve this cookiecutter! Submit pull requests to this repository, or if you notice any bugs, please report them using [the Github issue tracker](https://github.com/calligraffiti/cookiecutter-fountain)
 
 
 ### Credits
