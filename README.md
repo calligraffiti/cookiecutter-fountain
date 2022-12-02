@@ -4,7 +4,9 @@
 
 ***A Fountain screenplay cookiecutter template!***
 
-> This is a cookiecutter template, that helps you to quickly set up a new [Fountain](https://www.fountain.io) screenplay project, so that you can get straight to writing.
+> This is a [cookiecutter](https://github.com/cookiecutter/cookiecutter) template, that helps you to quickly set up a new [Fountain](https://www.fountain.io) screenplay project, so that you can get straight to writing.
+
+[Cookiecutter documentation](https://cookiecutter.readthedocs.io/en/stable/).
 
 
 ## Features
